@@ -1,7 +1,7 @@
 ---
 
 layout: default-editorial
-problem: Breadth first search
+problem: Depth first search
 
 ---
 # Solution
