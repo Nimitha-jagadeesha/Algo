@@ -5,8 +5,9 @@ layout: default
 > 
 * * *
 
-###Algorithms
-- [BFS](./Algorithms/dfs.html)
+### Algorithms
+
+- [DFS](./Algorithms/dfs.html)
 
 * * *
 
