@@ -2,6 +2,7 @@
 layout: default-editorial
 title: Dfs.
 problem: Breadth first search
+link:""
 ---
 # Solution
 
@@ -12,5 +13,5 @@ problem: Breadth first search
 using namespace std;
 int main()
 {
-    
+
 }
