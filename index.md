@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> *Trying*
+> *Trying New*
 * * *
 
 
