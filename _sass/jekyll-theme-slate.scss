@@ -168,14 +168,14 @@ pre, code {
 
 pre {
   padding: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  box-shadow: 0 0 10px #512DA8;
   overflow: auto;
 }
 
 code {
   padding: 3px;
   margin: 0 3px;
-  box-shadow: 0 0 10px rgba(0,0,0,.1);
+  box-shadow: 0 0 10px #512DA8;
 }
 
 pre code {
@@ -229,7 +229,7 @@ hr {
 }
 
 table {
-  border: 1px solid #373737;
+  border: 1px solid #1e1155;
   margin-bottom: 20px;
   text-align: left;
  }
@@ -237,13 +237,13 @@ table {
 th {
   font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 10px;
-  background: #373737;
+  background: #17107a;
   color: #fff;
  }
 
 td {
   padding: 10px;
-  border: 1px solid #373737;
+  border: 1px solid #0f0758;
  }
 
 form {
@@ -282,12 +282,12 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(to top, #373737, #212121);
+  background: #512DA8;
+  background: -moz-linear-gradient(top, #160258, #0a054e);
+  background: -webkit-linear-gradient(top, #021450, #021450);
+  background: -ms-linear-gradient(top, #29167c, #021450);
+  background: -o-linear-gradient(top, #021450, #021450);
+  background: linear-gradient(to top, #021450, #021450);
 }
 
 #header_wrap .inner {
@@ -299,7 +299,7 @@ Full-Width Styles
   color: #fff;
   font-size: 42px;
   font-weight: 700;
-  text-shadow: #111 0px 0px 10px;
+  text-shadow: #021450 0px 0px 10px;
 }
 
 #project_tagline {
@@ -307,7 +307,7 @@ Full-Width Styles
   font-size: 24px;
   font-weight: 300;
   background: none;
-  text-shadow: #111 0px 0px 10px;
+  text-shadow: #021450 0px 0px 10px;
 }
 
 #downloads {
@@ -351,8 +351,8 @@ Full-Width Styles
 
 #main_content_wrap {
   background: #f2f2f2;
-  border-top: 1px solid #111;
-  border-bottom: 1px solid #111;
+  border-top: 1px solid rgb(24, 2, 77);
+  border-bottom: 1px solid rgb(19, 2, 95);
 }
 
 #main_content {
@@ -360,7 +360,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #021450;
 }
 
 
