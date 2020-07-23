@@ -5,8 +5,8 @@ layout: default
 > 
 * * *
 
-### Upcoming Contest
-- [Google](https://www.google.com)
+###Algorithms
+- [Quick sort](https://www.google.com)
 
 * * *
 
