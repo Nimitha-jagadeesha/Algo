@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.version       = '0.1.1'
   s.license       = 'CC0-1.0'
   s.authors       = ['Nimitha roopa niriksha']
-  s.homepage      = 'https://github.com/pages-themes/cayman'
-  s.summary       = 'NCODE is a monthly programming contest.'
+  s.homepage      = 'https://github.com/pages-themes/slate'
+  s.summary       = 'Algorithms and data structures'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
